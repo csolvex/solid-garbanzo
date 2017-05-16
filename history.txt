@@ -1,0 +1,12 @@
+    1  sudo pip3 install flask
+    2  ls
+    3  git status
+    4  git all
+    5  git add all
+    6  git add
+    7  git add .
+    8  git stutus
+    9  git status
+   10  git commit -m "my first commit test"
+   11  git push
+   12  history > history.txt
